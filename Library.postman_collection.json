@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "40d0a0e4-ca26-43f5-8137-fd78222ff189",
+		"name": "Library",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "17292311"
+	},
+	"item": [
+		{
+			"name": "список книг, их авторов и остаток на складе",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "авторов, у которых нет книг",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "авторов, которые написали больше 3х книг",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "пользователя и его последнюю полученную книгу",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "пользователей у которых на руках есть взятые книги, суммарное количество этих книг, и список этих книг",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
